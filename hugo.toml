@@ -2,3 +2,15 @@ baseURL = 'https://music.oxyde.fun/'
 languageCode = 'en-us'
 title = 'Fête de la musique'
 theme = 'PaperMod'
+sectionPagesMenu = 'main'
+[menus]
+  [[menus.main]]
+    name = 'Archives'
+    pageRef = '/archives/'
+    weight = 10
+[params]
+    defaultTheme = 'dark'
+    ShowAllPagesInArchive = 'true'
+    ShowToc = 'true'
+    ShowRssButtonInSectionTermList = 'true'
+    ShowBreadCrumbs = 'true'
