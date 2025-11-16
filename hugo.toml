@@ -1,4 +1,4 @@
-baseURL = 'https://music.oxyde.fun'
+baseURL = 'https://music.oxyde.fun/'
 languageCode = 'en-us'
 title = 'Fête de la musique'
 theme = 'PaperMod'
