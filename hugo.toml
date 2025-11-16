@@ -1,0 +1,4 @@
+baseURL = 'https://0x6de.github.io/music/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
