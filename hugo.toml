@@ -1,4 +1,4 @@
-baseURL = 'https://0x6de.github.io/music/'
+baseURL = 'https://music.oxyde.fun'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
