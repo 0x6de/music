@@ -14,3 +14,4 @@ showToc = false
 >> #### 💽 1312
 
 {{< youtube 5Fh7zV2Ruh8 >}}
+https://www.youtube.com/watch?v=5Fh7zV2Ruh8

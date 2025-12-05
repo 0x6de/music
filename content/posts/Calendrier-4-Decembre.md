@@ -14,3 +14,4 @@ showToc = false
 >> #### 💽 Time Awry
 
 {{< youtube hoDRGiAf3r0 >}}
+https://www.youtube.com/watch?v=hoDRGiAf3r0
