@@ -73,7 +73,7 @@ ___
 >> #### 💽 Goldstar
 
 🎧 Titres conseillés: 
-[Lexington Delirium](https://www.youtube.com/watch?v=v9cDvwwbj6A) / [Idustry of Misery](https://www.youtube.com/watch?v=j0-BZT9DA4Y) / [Gomorrah Nouveaux](https://www.youtube.com/watch?v=-pHxsIjPYYc)
+[Lexington Delirium](https://www.youtube.com/watch?v=v9cDvwwbj6A) / [Industry of Misery](https://www.youtube.com/watch?v=j0-BZT9DA4Y) / [Gomorrah Nouveaux](https://www.youtube.com/watch?v=-pHxsIjPYYc)
 
 {{< youtube v9cDvwwbj6A >}}
 *[🌐 wiki](https://en.wikipedia.org/wiki/Imperial_Triumphant)* || [⏭️ Autre album](https://www.youtube.com/watch?v=sNDuiaa_QrY)
